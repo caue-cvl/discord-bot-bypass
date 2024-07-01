@@ -1,2 +1,1 @@
-# discord-bot-bypass
- 
+# discord-automation
