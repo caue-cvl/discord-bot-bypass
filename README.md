@@ -133,4 +133,4 @@ Want to be part of the project? Click [HERE](CONTRIBUTING.md) and read how to co
 
 ## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
