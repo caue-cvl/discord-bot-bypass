@@ -21,111 +21,109 @@ To install the Discord Mee Bot Bypass, follow these steps:
 
 <h3>Install Python</h3>
 
-1- Access Microsoft Store
+1- Access Microsoft Store.
 
 <img src="./images/image1.png">
 
-2- Use the search bar and search `Python`
+2- Use the search bar and search `Python`.
 
 <img src="./images/image2.png">
 
-3- Click on `Python` option
+3- Click on `Python` option.
 
 <img src="./images/image3.png">
 
-4- Click on `lastest version`
+4- Click on `lastest version`.
 
 <img src="./images/image4.png">
 
-5- Click on `Get` to download and install Python
+5- Click on `Get` to download and install Python.
 
 <img src="./images/image5.png">
 
 <h3>Install PyAutoGUI and Selenium</h3>
 
-1- Press `Win + R` and type `cmd`
+1- Press `Win + R` and type `cmd`.
 
 <img src="./images/image6.png">
 
-2- Click `OK`
+2- Click `OK`.
 
 <img src="./images/image7.png">
 
-3- Run the command `pip3 install pyautogui`
+3- Run the command `pip3 install pyautogui`.
 
 <img src="./images/image8.png">
 
-4- Run the command `pip3 install selenium`
+4- Run the command `pip3 install selenium`.
 
 <img src="./images/image9.png">
 
 <h3>Install ChromeDriver</h3>
 
-1- Click the `⋮` button
+1- Click the `⋮` button.
 
 <img src="./images/image10.png">
 
-2- Click `Help` button
+2- Click `Help` button.
 
 <img src="./images/image11.png">
 
-3- Click `About Google Chrome` button
+3- Click `About Google Chrome` button.
 
 <img src="./images/image12.png">
 
-4- Check the Google Chrome version
+4- Check the Google Chrome version.
 
 <img src="./images/image13.png">
 
-5- Enter the following link: https://googlechromelabs.github.io/chrome-for-testing/#stable and found the version `based on your OS`
+5- Enter the following link: https://googlechromelabs.github.io/chrome-for-testing/#stable and found the version `based on your OS`.
 
 <img src="./images/image14.png">
 
-6- Copy the link and entered as a new tab
+6- Copy the link and entered as a new tab.
 
 <img src="./images/image15.png">
 
-7- After download, click the `zipped file`
+7- After download, click the `zipped file`.
 
 <img src="./images/image16.png">
 
-8- Enter the  `folder`
+8- Enter the `folder`.
 
 <img src="./images/image17.png">
 
-9- Find the `EXE file`
+9- Find the `EXE file`.
 
 <img src="./images/image18.png">
 
-10- Move the `EXE file` to the `script folder`
+10- Move the `EXE file` to the `script folder`.
 
 <img src="./images/image19.png">
-
-
 
 ## 🔧 Change Variables
 
 <h4>Set the chat channel link</h4>
 
->For example, if the chat channel link is https://discord.com/channels/1232448776917221487/1238845907706056784 the first sequence of X would be `1232448776917221487` and the second sequence would be `1238845907706056784`
+>For example, if the chat channel link is https://discord.com/channels/1232448776917221487/1238845907706056784 the first sequence of X would be `1232448776917221487` and the second sequence would be `1238845907706056784`.
 
 <img src="./images/image20.png">
 
 <h4>Set the Discord server cooldown</h4>
 
->Change the server cooldown in seconds, for example 60 seconds for 1 minute cooldown
+>Change the server cooldown in seconds, for example 60 seconds for 1 minute cooldown.
 
 <img src="./images/image21.png">
 
 <h4>Set your credentials</h4>
 
->Add the e-mail and password to login into Discord, I recommend to disable MFA (Multi-factor authentication) before execute the script and enable again after script finish
+>Add the e-mail and password to login into Discord, I recommend to disable MFA (Multi-factor authentication) before execute the script and enable again after script finish.
 
 <img src="./images/image22.png">
 
 <h4>Set messages</h4>
 
->Change the `TEXT` messages for real messages so you don't get blocked
+>Change the `TEXT` messages for real messages so you don't get blocked.
 
 <img src="./images/image23.png">
 
