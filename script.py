@@ -22,23 +22,11 @@ def send_channel_message(messages):
     while True:
         i = random.randint(1, 6)
         time.sleep(XX)  # Set the Discord server cooldown
-
-        pyautogui.keyDown('alt')
-        time.sleep(0.2)
-        pyautogui.press('tab')
-        time.sleep(0.2)
-        pyautogui.keyUp('alt')
         
         message_field = driver.switch_to.active_element
         message_field.send_keys(messages[i])
         time.sleep(0.2)
         message_field.send_keys(Keys.RETURN)
-        
-        pyautogui.keyDown('alt')
-        time.sleep(0.2)
-        pyautogui.press('tab')
-        time.sleep(0.2)
-        pyautogui.keyUp('alt')
 
 # Settings
 email = "xxxxxxxxxxx" # Set your Discord Email
