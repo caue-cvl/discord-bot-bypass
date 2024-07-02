@@ -1,8 +1,4 @@
 # Discord Mee Bot Bypass
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-
 <img src="./images/mee.png" alt="Mee">
 
 > How many times do you entered a Public Discord and MEE6 stopped you from participated on giveaway or a specific chat? With this code you will reach levels sending automated messages, just keep sending the code running until you reach the necessery level.
@@ -127,10 +123,14 @@ To install the Discord Mee Bot Bypass, follow these steps:
 
 <img src="./images/image23.png">
 
+## 📷 Demo
+
+<video src="demo.mp4" autoplay loop muted style="max-width: 730px;" > </video>
+
 ## 🤝 Contribute with the Project
 
 Want to be part of the project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
 ## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
