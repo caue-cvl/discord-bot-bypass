@@ -20,7 +20,7 @@ def login_discord(email, password):
 # Function to send a message in a specific channel
 def send_channel_message(messages):
     while True:
-        i = random.randint(1, 7)
+        i = random.randint(1, 6)
         time.sleep(XX)  # Set the Discord server cooldown
 
         pyautogui.keyDown('alt')
