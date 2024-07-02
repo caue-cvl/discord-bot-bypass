@@ -53,7 +53,7 @@ login_discord(email, password)
 time.sleep(2)
 
 # Send message
-messages = ["TEXT1", "TEXT2", "TEXT3", "TEXT4", "TEXT5", "TEXT6", "TEXT7"]
+messages = ["TEXT1", "TEXT2", "TEXT3", "TEXT4", "TEXT5", "TEXT6", "TEXT7"] # Set your texts
 send_channel_message(messages)
 
 # Close the browser
