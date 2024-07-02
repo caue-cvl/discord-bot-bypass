@@ -125,7 +125,7 @@ To install the Discord Mee Bot Bypass, follow these steps:
 
 ## 📷 Demo
 
-https://github.com/caue-cvl/discord-bot-bypass/assets/60572311/961eeb88-7baf-4ed3-8158-8c1a8fc6092a
+https://github.com/caue-cvl/discord-bot-bypass/assets/60572311/6b6cff6e-e5d3-4e00-bd33-c66b7138768f
 
 ## 🤝 Contribute with the Project
 
